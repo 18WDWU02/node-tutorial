@@ -1,0 +1,11 @@
+1. Read through filesystems documentation
+    and figure out how to do other tasks with filesystems
+2. Implement the filesystems module into our quiz
+    At the end of the quiz a file should be created which has all the
+    users answers and scores
+
+ONLY IF YOU GOT/UNDERSTAND THE OTHER TWO
+3. Create a way to uniquely create the quiz files to the user
+    ie. If another person with the same name takes the quiz, it won't
+    just add on to the already existing file.
+    Also prevent users from being able to take the quiz twice
