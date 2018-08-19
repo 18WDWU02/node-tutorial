@@ -39,7 +39,6 @@ process.on('exit', function(){
         }
     }
     process.stdout.write(`\nYou got ${correctCount}/${questions.length} correct\n`);
-})
-
+});
 
 askQuestion(0);
