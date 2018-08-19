@@ -1,0 +1,24 @@
+{
+  "name": "classnodeproject",
+  "version": "0.0.1",
+  "description": "in class node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18WDWU02/node-tutorial.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "npm"
+  ],
+  "author": "Richard Hpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18WDWU02/node-tutorial/issues"
+  },
+  "homepage": "https://github.com/18WDWU02/node-tutorial#readme"
+}
